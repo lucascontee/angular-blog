@@ -1,5 +1,10 @@
 .menuTitle{
     color: white;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.377);
+    border-top: 1px solid rgba(128, 128, 128, 0.377);
+    margin-top: 20px;
+    width: 80vw;
+    margin: 20px auto;
 }
 
 .menuTitle h1{

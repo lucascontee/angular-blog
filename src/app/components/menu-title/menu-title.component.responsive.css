@@ -1,0 +1,5 @@
+@media screen and (min-width: 700px) {
+    .menuTitle > h1{
+        font-size: 10px;
+    }   
+}
