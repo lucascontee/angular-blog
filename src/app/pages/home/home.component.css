@@ -1,13 +1,11 @@
 .articles{
+    margin-bottom: 50px;
     display: flex;
     align-items: flex-start;
     justify-content: center;
     gap: 40px;
+
 }
 
-header{
-    margin-top: 15px;
-    display: flex;
-    justify-content: center;
-}
+
 
